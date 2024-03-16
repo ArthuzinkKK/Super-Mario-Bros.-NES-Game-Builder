@@ -2,7 +2,7 @@
 
 Author: Andrew Kellogg
 
-Super Mario Bros NES Game & Builder is a faithful simulation of the original Super Mario Bros. game for the Nintendo Entertainment System (NES). Whether you’re a fan of the classic game or a budding game designer, this project allows you to create your own custom levels with all the classic capabilities, without the limitations imposed by the NES hardware.
+Super Mario Bros NES Game & Builder is a faithful simulation of the original Super Mario Bros. game for the Nintendo Entertainment System (NES). Whether you’re a fan of the classic game or a budding game designer, this project allows you to create your own custom levels with all the classic capabilities, without the limitations imposed by the NES hardware. (Includes instruction manual)
 
 ## Features
 
